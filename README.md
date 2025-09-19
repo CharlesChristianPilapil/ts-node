@@ -15,7 +15,6 @@
   - Nodemailer (for sending OTP/2FA emails)
   
 📂 Project Structure 
-
   - src/
      ├── config/         # App and DB config
      ├── controllers/    # Route handlers (auth, users, etc.)
@@ -28,7 +27,7 @@
      ├── app.ts          # Express app setup
      └── server.ts       # Entry point
 
-🔧 Environment Variables 
+🔧 Environment Variables
     - PORT=3000
     - NODE_ENV=development/production/staging
     - MONGO_URI=mongodb://localhost:27017/myapp
