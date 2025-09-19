@@ -16,16 +16,16 @@
   
 📂 Project Structure 
   - src/
-     ├── config/         # App and DB config
-     ├── controllers/    # Route handlers (auth, users, etc.)
-     ├── middlewares/    # Authentication and validation middleware
-     ├── models/         # Mongoose models
-     ├── routes/         # Express routes
-     ├── schemas/        # Schemas for validation
-     ├── strategies/     # Passport authentication strategies
-     ├── utils/          # Helper functions (hashing, OTP, etc.)
-     ├── app.ts          # Express app setup
-     └── server.ts       # Entry point
+     - ├── config/         # App and DB config
+     - ├── controllers/    # Route handlers (auth, users, etc.)
+     - ├── middlewares/    # Authentication and validation middleware
+     - ├── models/         # Mongoose models
+     - ├── routes/         # Express routes
+     - ├── schemas/        # Schemas for validation
+     - ├── strategies/     # Passport authentication strategies
+     - ├── utils/          # Helper functions (hashing, OTP, etc.)
+     - ├── app.ts          # Express app setup
+     - └── server.ts       # Entry point
 
 🔧 Environment Variables 
   - PORT=3000
