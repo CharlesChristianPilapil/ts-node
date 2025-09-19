@@ -27,10 +27,10 @@
      ├── app.ts          # Express app setup
      └── server.ts       # Entry point
 
-🔧 Environment Variables
-    - PORT=3000
-    - NODE_ENV=development/production/staging
-    - MONGO_URI=mongodb://localhost:27017/myapp
-    - SESSION_SECRET=your-secret-key
-    - EMAIL_USER=your-email@example.com
-    - EMAIL_PASS=your-gmail-app-password(not actuall password)
+🔧 Environment Variables 
+  - PORT=3000
+  - NODE_ENV=development/production/staging
+  - MONGO_URI=mongodb://localhost:27017/myapp
+  - SESSION_SECRET=your-secret-key
+  - EMAIL_USER=your-email@example.com
+  - EMAIL_PASS=your-gmail-app-password(not actuall password)
