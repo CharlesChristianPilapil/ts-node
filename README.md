@@ -1,10 +1,10 @@
 📖 Project Title
-  Authentication with TypeScript, Node.js, Express, and MongoDB.
+  - Authentication with TypeScript, Node.js, Express, and MongoDB.
 
 🚀 Features 
-  User authentication with Passport.js 
-  Two-factor authentication (2FA) 
-  Session management with MongoDB 
+  - User authentication with **Passport.js**  
+  - Two-factor authentication (**2FA**)  
+  - Session management with **MongoDB**  
 
 🛠️ Tech Stack
   TypeScript
