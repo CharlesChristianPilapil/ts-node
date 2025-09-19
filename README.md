@@ -1,10 +1,12 @@
 📖 Project Title
   - Authentication with TypeScript, Node.js, Express, and MongoDB.
 
+
 🚀 Features 
   - User authentication with **Passport.js**  
   - Two-factor authentication (**2FA**)  
   - Session management with **MongoDB**  
+
 
 🛠️ Tech Stack 
   - TypeScript
@@ -13,6 +15,7 @@
   - MongoDB (with Mongoose)
   - Passport.js (local strategy)
   - Nodemailer (for sending OTP/2FA emails)
+
   
 📂 Project Structure 
   - src/
@@ -26,6 +29,7 @@
      - ├── utils/          # Helper functions (hashing, OTP, etc.)
      - ├── app.ts          # Express app setup
      - └── server.ts       # Entry point
+
 
 🔧 Environment Variables 
   - PORT=3000
