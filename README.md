@@ -15,6 +15,7 @@
   - Nodemailer (for sending OTP/2FA emails)
   
 📂 Project Structure 
+
   - src/
      ├── config/         # App and DB config
      ├── controllers/    # Route handlers (auth, users, etc.)
